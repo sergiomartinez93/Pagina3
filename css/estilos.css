@@ -1,0 +1,70 @@
+
+#contenido1
+{
+width:5% ;
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+background-color:blueviolet;
+}
+
+
+#contenido2
+{
+width:2.5% ;
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+background-color:darkmagenta;
+}
+
+#contenido3
+{
+width: 95%;
+position: absolute;
+right: 0;
+top: 0;
+height: 100%;
+}
+
+#parrafo3
+{
+text-align: center;
+}
+
+#parrafo1
+{
+width: 30%;
+position: absolute;
+margin-left: 100px;
+margin-top: 20px;
+text-align: center;
+}
+
+#bt_registro
+{
+width: 10%;
+position: absolute;
+margin-right: 200px;
+margin-top: 40px;
+right: 50px;
+text-align: center;
+}
+
+#bt_iniciar
+{
+width: 10%;
+position: absolute;
+margin-right: 100px;
+margin-top: 40px;
+right: 0;
+text-align: center;
+}
+
+.logo
+{
+width: 200px;
+}
+
